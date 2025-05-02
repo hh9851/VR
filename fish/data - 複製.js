@@ -188,8 +188,8 @@ var APP_DATA = {
   "name": "魚池",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "autorotateEnabled": false,
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
